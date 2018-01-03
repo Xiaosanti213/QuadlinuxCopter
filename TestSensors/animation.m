@@ -1,37 +1,35 @@
-% 第一部分创建六面体创建句柄
-% 第二部分从串口读入陀螺仪角速度omega
-% gyrX等格式为一维向量
-% dcm描述之前点到变换后的点的变换矩阵
-%data：serial port or from workspace
+%% 第一部分创建图形
 
 %clear;clc;
 close all
-Point_X=[-1,1,1,-1,-1,1,1,-1]*5;
-Point_Y=[-1,-1,-1,-1,1,1,1,1]*3;
-Point_Z=[1,1,-1,-1,1,1,-1,-1]*1;
 
-%determine the faces with the numbers of the points
+% 画图填充面上色
+Point_X=[ 0,2, 2, 0,1,0, 0, 1]*5;
+Point_Y=[-1,0, 0,-1,0,1, 1, 0]*5;
+Point_Z=[ 1,1,-1,-1,1,1,-1,-1]/2;
+Point=[Point_X;Point_Y;Point_Z]';
 Face=[1,2,3,4;5,6,7,8;5,6,2,1;8,7,3,4;2,6,7,3;1,5,8,4];
 Color=[1 1 0;0 1 0;1 0 0;0 0 1;0 1 1;1 0 1];
 
-Point=[Point_X;Point_Y;Point_Z]';
-
+% 设置轴系
 hfig=figure('name','陀螺仪传感器测试','numbertitle','off');haxes=cla;
-set(cla,'DataAspectRatio',[1,1,1],'Visible','off');
-set(cla,'xdir','reverse','zdir','reverse');
+set(cla,'DataAspectRatio',[1,1,1],'Visible','on');
+set(cla,'xdir','reverse','ydir','reverse','zdir','reverse');
+set(gca,'yticklabel','');
 axis([-10,10,-10,10,-10,10]);
-view([-1 1 1]);
-%from a certain point of view
+view([1 1 1]);%指定视角
 xlabel('x'),ylabel('y'),zlabel('z');
+grid on;
 
 
-htxt=axes('Units','normalized','position',[0 0.9 0.5 0.1],'Visible','off');
+%设置文字位置，画出第一幅图
+htxt=axes('Units','normalized','position',[-0.2 0.9 0.5 0.1],'Visible','off');
 hv=text('position',[0,0.8],'fontsize',12);
-h=patch('parent',haxes,'vertices',Point*quad2dcm([1,0,0,0]),'faces',Face,...
+h=patch('parent',haxes,'vertices',Point*Quad2dcm([1,0,0,0]),'faces',Face,...
     'FaceColor','flat','FaceVertexCdata',Color,'CDataMapping','scaled');
-%fill the faces with different colors
+axis square;% 产生正方形坐标系
 
-
+%% 串口读出数据在线显示
 %scom=instrfind();
 %if(~isempty(scom)) 
 %    fclose(scom);
@@ -55,13 +53,10 @@ h=patch('parent',haxes,'vertices',Point*quad2dcm([1,0,0,0]),'faces',Face,...
 %fclose(scom);
 %delete(scom);
 
-gyr_X=reshape(gyrX,[1,1,length(gyrX)]);
-gyr_Y=reshape(gyrY,[1,1,length(gyrY)]);
-gyr_Z=reshape(gyrZ,[1,1,length(gyrZ)]);
-omega = [gyr_X gyr_Y gyr_Z];
+%% 记录数据离线显示
+Point_temp = repmat(Point,1,1,size(dcm,3));
 %set the position and the velocity values
-%plot
-for i = 1:size(dcm,3)
+for i = 2:size(dcm,3)
 %while ishandle(hfig) 
 %    str=fscanf(scom);
 %    mat=regexp(str,'-?\d+.\d+','match');
@@ -70,9 +65,13 @@ for i = 1:size(dcm,3)
 %             str2double(mat{3})];
 %         quad=[str2double(mat{4}),str2double(mat{5}),...
 %             str2double(mat{6}),str2double(mat{7})];
-        set(h,'vertices',Point*dcm(i));
-        set(hv,'string',num2str(omega(i)));
+        Point_temp(:,:,i) = Point_temp(:,:,i-1)*dcm(:,:,i)';
+        set(h,'vertices',Point_temp(:,:,i));%图形顶点位置
+        set(hv,'string',['roll: ',num2str(roll(i)),...
+            '  pitch: ',num2str(pitch(i)),...
+            '  yaw: ',num2str(yaw(i))]);%文字显示
         drawnow;
+        pause(0.1);
 %     end
 %end
 end
