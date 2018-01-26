@@ -1,0 +1,10 @@
+课程中心：http://rfly.buaa.edu.cn/course.html
+可以下载如下：
+中文版PPT分章节打包：http://rfly.buaa.edu.cn/course/ch/Lesson01-15V2.zip
+中文版PPT合集单页：http://rfly.buaa.edu.cn/course/ch/LessonAllV2.pdf
+中文版PPT合集4x2每页打印版：http://rfly.buaa.edu.cn/course/ch/LessonAllV2_4x2.pdf
+英文版PPT分章节打包：http://rfly.buaa.edu.cn/course/en/IntroToMulticopterEnPPT-buaarfly.zip
+
+最近更新：
+20170517 - 修改了第11讲部分图片和公式的错误，感谢@唐超-wust的反馈。
+20170522 - 修改了第3讲和11讲部分内容。

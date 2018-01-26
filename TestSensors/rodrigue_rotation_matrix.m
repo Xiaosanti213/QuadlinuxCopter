@@ -1,4 +1,4 @@
-% 使用罗德里格旋转公式计算旋转矩阵
+% 通过旋转轴和旋转角使用罗德里格旋转公式计算旋转矩阵
 function rot_matrix = rodrigue_rotation_matrix(rot_axis, rot_angle)
 
 rot_axis = normalize(rot_axis);%正交化旋转角
