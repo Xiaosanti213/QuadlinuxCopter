@@ -57,7 +57,7 @@
 	  
 	  // 测试matrix_multiply函数
 	  float att_gyro[3];
-	  float att_est[3] = {3,2,5};
+	  float att_est[3] = {0,-0.08,0.98};
 	  // matrix_multiply(rot_matrix, att_est, att_gyro);
 	  // for(i = 0; i <3; i++)
 	  // {
@@ -78,7 +78,7 @@
 	  // normalize(att_est);
 	  
 	  // 测试calculate_rot_matrix等函数
-	  float calibrated_att_init[3] = {7,-2,1};//初始化时必须有，
+	  float calibrated_att_init[3] = {0,0,1};//初始化时必须有，
 	  float rotmat_till_now[3][3];
 	  calculate_rot_matrix(calibrated_att_init, att_est, rotmat_till_now);
 	  for(i = 0; i<3; i++)

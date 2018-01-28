@@ -25,13 +25,13 @@ void attitude_control(const ad attitude_data, const float reference, int* output
 		i_term = i_term+Kp/tauI*error_o[i]*T;
 		u_o = p_term+i_term;
 		error_i[i] = u_o - attitude_data.angle_rate[i];
-		output[i] = -K*error_i[i];
+		output[i] = K*error_i[i];
 	}
 	/*外环输出量->四个电机映射mix_table*/
 	if(i = 2)
 	{
 		error_i[i] = reference[i]-attitude_data.angle_rate[i];
-		output[i] = -K*error_i[i];
+		output[i] = K*error_i[i];
 	}	
 	else if(i = 3)
 	{
