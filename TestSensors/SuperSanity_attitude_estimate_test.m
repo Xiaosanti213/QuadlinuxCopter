@@ -1,4 +1,4 @@
-clear
+clear all
 close all
 clc
 
@@ -100,6 +100,9 @@ pitch = zeros(1, data_length); % 存储当前的Euler角表示姿态,姿态初始值都是0
 roll = pitch;                  
 yaw = pitch;
 
+pitch_alter = pitch;
+roll_alter = pitch;
+
 pitch_delta = pitch;           % 存储相对前一时刻的变化的欧拉角
 roll_delta = pitch;
 yaw_delta = pitch;
@@ -115,7 +118,8 @@ att_est(:,1) = [0;0;1];
 t = 0:deltaT:(data_length-1)*deltaT;
 dcm = repmat(eye(3),1,1,data_length);%将单位矩阵堆叠成三维 记录dcm用来动态显示
 
-%% 本段代码写入控制器，执行周期20ms
+%% 本段代码写入控制器
+profile on
 for k = 2:1:data_length
     pitch_delta(k) = gyro(2,k)*deltaT;                                  %计算欧拉角变化值，得到角度为单位
     yaw_delta(k) = gyro(3,k)*deltaT;
@@ -126,45 +130,53 @@ for k = 2:1:data_length
     att_acc(:,k) = normalize(acc(:,k));                                 %向量正交化，卡马克开方
     att_est(:,k) = (att_gyro(:,k)+w_gyro * att_acc(:,k))/(1+w_gyro);    %加权估算当前姿态
     
-    rotmat_till_now = calculate_rot_matrix(att_est(:,1), att_est(:,k)); %始末向量->旋转轴角->罗德里格旋转矩阵
-    [roll(k), pitch(k), yaw(k)] = rotmatrix_to_euler(rotmat_till_now);  %旋转矩阵代数运算计算欧拉角
-    dcm(:,:,k) = rot_matrix;                                            %动态显示用
+    %rotmat_till_now = calculate_rot_matrix(att_est(:,1), att_est(:,k)); %始末向量->旋转轴角->罗德里格旋转矩阵
+    %[roll(k), pitch(k), yaw(k)] = rotmatrix_to_euler(rotmat_till_now);  %旋转矩阵代数运算计算欧拉角
+    %dcm(:,:,k) = rot_matrix;                                            %动态显示用
+    
+    %直接从矢量计算Pitch->Roll考虑过程,关键在于zp中间轴,此种方法解算，当z加速度趋于0时候不准
+    roll_alter(k) = atan2_numerical(att_est(2,k),sqrt(att_est(1,k)^2+att_est(3,k)^2))/10;
+    pitch_alter(k) = atan2_numerical(att_est(1,k),att_est(3,k))/10;
 end
 
-
+profile viewer
 
 %% plot
 figure(1)%角度
 subplot(311)
-plot(t,pitch,'-g');
+plot(t,roll,'-g');
+hold on
+plot(t,roll_alter,'c');
 legend('滚转角 ');
 xlabel('Time (s)');
-ylabel('pitch (deg)');
+ylabel('roll (deg)');
 subplot(312);
-plot(t,yaw,'-b');
+plot(t,pitch,'-b');
+hold on
+%plot(t,pitch_alter,'c');
 legend('俯仰角 ');
 xlabel('Time (s)');
-ylabel('yaw (deg)');
+ylabel('pitch (deg)');
 subplot(313);
-plot(t,roll,'-r');
+plot(t,yaw,'-r');
 legend('偏航角 ');
 xlabel('Time (s)');
-ylabel('roll (deg)');
+ylabel('yaw (deg)');
 
 
 figure(2)%角速度
 subplot(311)
-plot(t,gyro(2,:),'-g');
+plot(t,gyro(1,:),'-g');
 legend('滚转角速率 ');
 xlabel('Time (s)');
 ylabel('pitch (deg)');
 subplot(312);
-plot(t,gyro(3,:),'-b');
+plot(t,gyro(2,:),'-b');
 legend('俯仰角速率 ');
 xlabel('Time (s)');
 ylabel('yaw (deg)');
 subplot(313);
-plot(t,gyro(1,:),'-r');
+plot(t,gyro(3,:),'-r');
 legend('偏航角速率 ');
 xlabel('Time (s)');
 ylabel('roll (deg)');
