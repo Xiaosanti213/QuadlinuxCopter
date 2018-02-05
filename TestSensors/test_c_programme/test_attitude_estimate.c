@@ -42,28 +42,28 @@
 	  // printf("sensors_data.gyro:%f %f %f\n", s_data.gyro[0],s_data.gyro[1],s_data.gyro[2]);
 	  
 	  // 测试euler_data_direction_correct函数
-	  // float rot_matrix[3][3];
-	  // float euler_delta[3] = {0.1,0.2,0.3};	  
-	  // euler_to_rotmatrix(euler_delta, rot_matrix);
-	  // for(i = 0; i<3; i++)
-	  // {
-		  // for(j = 0; j<3; j++)
-		  // {
-			  // printf("%-20.2f",rot_matrix[i][j]); 
-		  // }
-		  // printf("\n");
-	  // }
-	  // printf("end of matrix\n");
+	  float rot_matrix[3][3];
+	  float euler_delta[3] = {-0.06,-7.49,-0.24};	  
+	  euler_to_rotmatrix(euler_delta, rot_matrix);
+	  for(i = 0; i<3; i++)
+	   {
+		   for(j = 0; j<3; j++)
+		   {
+			   printf("%-20.2f",rot_matrix[i][j]); 
+		   }
+		   printf("\n");
+	   }
+	   printf("end of matrix\n");
 	  
 	  // 测试matrix_multiply函数
 	  float att_gyro[3];
-	  float att_est[3] = {0,-0.08,0.98};
-	  // matrix_multiply(rot_matrix, att_est, att_gyro);
-	  // for(i = 0; i <3; i++)
-	  // {
-		  // printf("%-20.2f", att_gyro[i]);
-	  // }
-	  // printf("\n");
+	  float att_est[3] = {-0.58,0.03,0.78};
+	   matrix_multiply(rot_matrix, att_est, att_gyro);
+	   for(i = 0; i <3; i++)
+	   {
+		   printf("%-20.2f", att_gyro[i]);
+	   }
+	   printf("\n");
 	  
 	  // 测试normalize函数
 	  // float a[3] = {1,1,1};
@@ -78,7 +78,7 @@
 	  // normalize(att_est);
 	  
 	  // 测试calculate_rot_matrix等函数
-	  float calibrated_att_init[3] = {0,0,1};//初始化时必须有，
+	  /*float calibrated_att_init[3] = {0,0,1};//初始化时必须有，
 	  float rotmat_till_now[3][3];
 	  calculate_rot_matrix(calibrated_att_init, att_est, rotmat_till_now);
 	  for(i = 0; i<3; i++)
@@ -98,7 +98,7 @@
 	  {
 		  printf("%-20.2f",euler_angle[i]);
 	  }
-	  printf("\n");
+	  printf("\n");*/
 	  
 	  //测试normalize函数
 	  // normalize(calibrated_att_init);
@@ -128,6 +128,14 @@
 	  printf("N2--%-20.4f", rot_axis[2]);
 	  printf("dot product: %-20.4f", dot_product(calibrated_att_init, rot_axis));
 	  printf("acos: %-20.4f\n",acos(dot_product(calibrated_att_init, rot_axis))); */
+	  
+	  
+	  //float att_est[3] = {-0.41,0.02,0.84};//第51个
+	  //测试计算roll pitch简单方法
+	  float roll, pitch;
+	  roll = atan2_numerical(att_est[1],1/fast_inv_sqrt(att_est[0]*att_est[0]+att_est[2]*att_est[2]));
+	  pitch = atan2_numerical(att_est[0], att_est[2]);
+      printf("Euler   Angle (deg ): %.2f%s%.2f%s\n",roll," ",pitch," ");
   }
   
   

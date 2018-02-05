@@ -1,0 +1,951 @@
+
+******2018/2/3 23:08:07******
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): 0.00         0.00      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 1012   
+Euler   Angle (deg ): -0.26         -0.07      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49062.00
+Output Signal (----): 10000               -10000               -26683               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 1012   
+Euler   Angle (deg ): -0.55         -0.14      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49062.00
+Output Signal (----): 10000               -10000               -26683               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -0.86         -0.22      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -1.20         -0.29      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 1012   
+Euler   Angle (deg ): -1.58         -0.38      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49062.00
+Output Signal (----): 10000               -10000               -26683               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -1.98         -0.46      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -2.40         -0.55      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.79         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26682               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1420   
+L--rud: 1012   
+Euler   Angle (deg ): -2.86         -0.65      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      48642.00
+Output Signal (----): 10000               -10000               -26683               -16894                    
+1st : 16760   
+2nd : 17427   
+3rd : 15960   
+4th : 17427   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1994   
+L--rud: 1012   
+Euler   Angle (deg ): -3.32         -0.75      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      48068.00
+Output Signal (----): 10000               -10000               -26683               -17468                    
+1st : 17334   
+2nd : 18001   
+3rd : 16534   
+4th : 18001   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1996   
+L--rud: 1012   
+Euler   Angle (deg ): -3.80         -0.86      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      48066.00
+Output Signal (----): 10000               -10000               -26683               -17470                    
+1st : 17336   
+2nd : 18003   
+3rd : 16536   
+4th : 18003   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1996   
+L--rud: 1010   
+Euler   Angle (deg ): -4.25         -0.99      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.79         
+Refer  Signal (----): 1944.20    -1892.40    1943.60      48066.00
+Output Signal (----): 10000               -10000               -26680               -17470                    
+1st : 17336   
+2nd : 18003   
+3rd : 16536   
+4th : 18003   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1996   
+L--rud: 1012   
+Euler   Angle (deg ): -4.73         -1.12      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      48066.00
+Output Signal (----): 10000               -10000               -26683               -17470                    
+1st : 17336   
+2nd : 18003   
+3rd : 16536   
+4th : 18003   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1996   
+L--rud: 1012   
+Euler   Angle (deg ): -5.17         -1.28      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.79         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      48066.00
+Output Signal (----): 10000               -10000               -26682               -17470                    
+1st : 17336   
+2nd : 18003   
+3rd : 16536   
+4th : 18003   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1006   
+L--rud: 1012   
+Euler   Angle (deg ): -5.62         -1.45      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49056.00
+Output Signal (----): 10000               -10000               -26683               -16480                    
+1st : 16346   
+2nd : 17013   
+3rd : 15546   
+4th : 17013   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -6.06         -1.65      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 380   
+L--rud: 1014   
+Euler   Angle (deg ): -6.47         -1.90      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.44      49682.00
+Output Signal (----): 10000               -10000               -26685               -15854                    
+1st : 15720   
+2nd : 16387   
+3rd : 14920   
+4th : 16387   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 0   
+L--rud: 1012   
+Euler   Angle (deg ): -6.84         -2.19      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      50062.00
+Output Signal (----): 10000               -10000               -26683               -15474                    
+1st : 15340   
+2nd : 16007   
+3rd : 14540   
+4th : 16007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 0   
+L--rud: 1012   
+Euler   Angle (deg ): -7.19         -2.55      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      50062.00
+Output Signal (----): 10000               -10000               -26683               -15474                    
+1st : 15340   
+2nd : 16007   
+3rd : 14540   
+4th : 16007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 0   
+L--rud: 1012   
+Euler   Angle (deg ): -7.50         -3.01      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      50062.00
+Output Signal (----): 10000               -10000               -26683               -15474                    
+1st : 15340   
+2nd : 16007   
+3rd : 14540   
+4th : 16007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 0   
+L--rud: 1012   
+Euler   Angle (deg ): -7.78         -3.61      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      50062.00
+Output Signal (----): 10000               -10000               -26683               -15474                    
+1st : 15340   
+2nd : 16007   
+3rd : 14540   
+4th : 16007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 314   
+L--rud: 1012   
+Euler   Angle (deg ): -8.01         -4.38      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49748.00
+Output Signal (----): 10000               -10000               -26683               -15788                    
+1st : 15654   
+2nd : 16321   
+3rd : 14854   
+4th : 16321   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -8.20         -5.49      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -8.34         -7.02      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -9909               -26683               -16476                    
+1st : 16340   
+2nd : 17007   
+3rd : 15544   
+4th : 17011   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1068   
+L--rud: 1014   
+Euler   Angle (deg ): -8.41         -8.91      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.44      48994.00
+Output Signal (----): 10000               -10000               -26685               -16542                    
+1st : 16408   
+2nd : 17075   
+3rd : 15608   
+4th : 17075   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 1012   
+Euler   Angle (deg ): -8.41         -10.83      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49062.00
+Output Signal (----): 10000               -10000               -26683               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -8.36         -12.47      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.79         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26682               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -8.28         -13.65      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 1012   
+Euler   Angle (deg ): -8.19         -14.49      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.52      49062.00
+Output Signal (----): 10000               -10000               -26683               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1018   
+Euler   Angle (deg ): -8.09         -15.12      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.28      49060.00
+Output Signal (----): 10000               -10000               -26688               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 2   
+Euler   Angle (deg ): -7.99         -15.61      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1983.92      49062.00
+Output Signal (----): 10000               -10000               -25875               -16474                    
+1st : 16356   
+2nd : 16991   
+3rd : 15556   
+4th : 16991   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 2   
+Euler   Angle (deg ): -7.89         -15.98      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1983.92      49060.00
+Output Signal (----): 10000               -10000               -25875               -16476                    
+1st : 16358   
+2nd : 16993   
+3rd : 15558   
+4th : 16993   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 2   
+Euler   Angle (deg ): -7.80         -16.28      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1983.92      49060.00
+Output Signal (----): 10000               -10000               -25875               -16476                    
+1st : 16358   
+2nd : 16993   
+3rd : 15558   
+4th : 16993   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1000   
+L--rud: 2   
+Euler   Angle (deg ): -7.72         -16.52      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1983.92      49062.00
+Output Signal (----): 10000               -10000               -25875               -16474                    
+1st : 16356   
+2nd : 16991   
+3rd : 15556   
+4th : 16991   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 2   
+Euler   Angle (deg ): -7.64         -16.72      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1983.92      49060.00
+Output Signal (----): 10000               -10000               -25875               -16476                    
+1st : 16358   
+2nd : 16993   
+3rd : 15558   
+4th : 16993   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -7.56         -16.89      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1402   
+Euler   Angle (deg ): -7.49         -17.03      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1927.92      49060.00
+Output Signal (----): 10000               -10000               -26995               -16476                    
+1st : 16336   
+2nd : 17015   
+3rd : 15536   
+4th : 17015   
+No RC Data0
+R--ail: 1012   
+L--ele: 1024   
+R--thr: 1002   
+L--rud: 1996   
+Euler   Angle (deg ): -7.43         -17.16      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1890.88    1904.16      49060.00
+Output Signal (----): 10000               -10000               -27470               -16476                    
+1st : 16326   
+2nd : 17025   
+3rd : 15526   
+4th : 17025   
+No RC Data0
+R--ail: 1012   
+L--ele: 1070   
+R--thr: 1002   
+L--rud: 1996   
+Euler   Angle (deg ): -7.37         -17.27      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1889.04    1904.16      49060.00
+Output Signal (----): 10000               -10000               -27470               -16476                    
+1st : 16326   
+2nd : 17025   
+3rd : 15526   
+4th : 17025   
+No RC Data0
+R--ail: 1012   
+L--ele: 1072   
+R--thr: 1002   
+L--rud: 1996   
+Euler   Angle (deg ): -7.31         -17.37      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1888.96    1904.16      49060.00
+Output Signal (----): 10000               -10000               -27470               -16476                    
+1st : 16326   
+2nd : 17025   
+3rd : 15526   
+4th : 17025   
+No RC Data0
+R--ail: 1012   
+L--ele: 1068   
+R--thr: 1002   
+L--rud: 1996   
+Euler   Angle (deg ): -7.26         -17.46      0.00         
+Angle   Rate  (deg ): 0.37         31.87      0.85         
+Refer  Signal (----): 1944.28    -1889.12    1904.16      49060.00
+Output Signal (----): 10000               -10000               -27470               -16476                    
+1st : 16326   
+2nd : 17025   
+3rd : 15526   
+4th : 17025   
+No RC Data0
+R--ail: 1014   
+L--ele: 1030   
+R--thr: 1002   
+L--rud: 1558   
+Euler   Angle (deg ): -7.21         -17.54      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1890.64    1921.68      49060.00
+Output Signal (----): 10000               -10000               -27120               -16476                    
+1st : 16333   
+2nd : 17018   
+3rd : 15533   
+4th : 17018   
+No RC Data0
+R--ail: 1014   
+L--ele: 1018   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -7.16         -17.62      0.00         
+Angle   Rate  (deg ): 0.37         31.87      0.85         
+Refer  Signal (----): 1944.20    -1891.12    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -7.12         -17.69      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.40    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 384   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -7.08         -17.75      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1916.48    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 0   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -7.04         -17.81      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1931.84    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 2   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -7.01         -17.86      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1931.76    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 2   
+R--thr: 1004   
+L--rud: 1014   
+Euler   Angle (deg ): -6.97         -17.91      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1931.76    1943.44      49058.00
+Output Signal (----): 10000               -10000               -26685               -16478                    
+1st : 16344   
+2nd : 17011   
+3rd : 15544   
+4th : 17011   
+No RC Data0
+R--ail: 1012   
+L--ele: 984   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.94         -17.96      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1892.48    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1554   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.91         18.00      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1869.68    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1996   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.89         17.95      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1852.00    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1996   
+R--thr: 1000   
+L--rud: 1014   
+Euler   Angle (deg ): -6.86         17.91      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1852.00    1943.44      49062.00
+Output Signal (----): 10000               -10000               -26685               -16474                    
+1st : 16340   
+2nd : 17007   
+3rd : 15540   
+4th : 17007   
+No RC Data0
+R--ail: 1014   
+L--ele: 980   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.84         17.88      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 2   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -6.81         17.84      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1931.76    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 2   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.79         17.81      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1931.76    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 2   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.77         17.77      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.28    -1931.76    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 800   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.76         17.74      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1899.84    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 986   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.74         17.71      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1892.40    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1262   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.72         17.69      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1881.36    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1266   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.71         17.66      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1881.20    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.69         17.63      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.68         17.61      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.67         17.59      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.65         17.56      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1012   
+Euler   Angle (deg ): -6.64         17.54      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.85         
+Refer  Signal (----): 1944.28    -1886.64    1943.52      49060.00
+Output Signal (----): 10000               -10000               -26683               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.63         17.52      0.00         
+Angle   Rate  (deg ): 0.43         31.93      0.79         
+Refer  Signal (----): 1944.28    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26684               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1004   
+L--rud: 1012   
+Euler   Angle (deg ): -6.62         17.50      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1886.64    1943.52      49058.00
+Output Signal (----): 10000               -10000               -26683               -16478                    
+1st : 16344   
+2nd : 17011   
+3rd : 15544   
+4th : 17011   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1004   
+L--rud: 1014   
+Euler   Angle (deg ): -6.61         17.48      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.79         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49058.00
+Output Signal (----): 10000               -10000               -26684               -16478                    
+1st : 16344   
+2nd : 17011   
+3rd : 15544   
+4th : 17011   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1004   
+L--rud: 1014   
+Euler   Angle (deg ): -6.60         17.47      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49058.00
+Output Signal (----): 10000               -10000               -26685               -16478                    
+1st : 16344   
+2nd : 17011   
+3rd : 15544   
+4th : 17011   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.59         17.45      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.79         
+Refer  Signal (----): 1944.28    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26684               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1128   
+R--thr: 1002   
+L--rud: 1008   
+Euler   Angle (deg ): -6.58         17.43      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.28    -1886.72    1943.68      49060.00
+Output Signal (----): 10000               -10000               -26680               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1014   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.58         17.41      0.00         
+Angle   Rate  (deg ): 0.43         31.87      0.85         
+Refer  Signal (----): 1944.20    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   
+No RC Data0
+R--ail: 1012   
+L--ele: 1130   
+R--thr: 1002   
+L--rud: 1014   
+Euler   Angle (deg ): -6.57         17.40      0.00         
+Angle   Rate  (deg ): 0.37         31.93      0.85         
+Refer  Signal (----): 1944.28    -1886.64    1943.44      49060.00
+Output Signal (----): 10000               -10000               -26685               -16476                    
+1st : 16342   
+2nd : 17009   
+3rd : 15542   
+4th : 17009   

@@ -1,0 +1,1743 @@
+
+******2018/2/4 15:49:03******
+MS5611 I2C等待超时！error_code =1
+Checking nrf... 0
+R--ail: 0   
+L--ele: 96   
+R--thr: 15000   
+L--rud: 92   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.02   -0.07    0.05      
+att_gyro: 0.00         -0.00      1.00         
+sensors->acc: -0.00 0.00  1.00         
+Attitude Estimate:0.00         -0.00      1.00         
+Euler   Angle (deg ): -0.00         0.02      0.00         
+Angle   Rate  (dps ): -0.02         -0.07      0.05         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1               -4               0               0                    
+1st : 0   
+2nd : 0   
+3rd : 0   
+4th : 0   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.07    -0.01      
+att_gyro: 0.00         -0.00      1.00         
+sensors->acc: -0.00 0.00  1.00         
+Attitude Estimate:0.00         -0.00      1.00         
+Euler   Angle (deg ): -0.03         0.04      0.00         
+Angle   Rate  (dps ): -0.08         -0.07      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 11               -11               0               0                    
+1st : 0   
+2nd : 0   
+3rd : 0   
+4th : 0   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.00   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.19    -0.01      
+att_gyro: 0.00         -0.00      1.00         
+sensors->acc: 0.00 0.00  1.00         
+Attitude Estimate:0.00         -0.00      1.00         
+Euler   Angle (deg ): -0.05         0.09      0.00         
+Angle   Rate  (dps ): -0.08         -0.19      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 18               -28               0               0                    
+1st : 0   
+2nd : 0   
+3rd : 0   
+4th : 0   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   -0.00   1.00   
+MPU6050 Gyro  (dps ): 0.04   -0.19    -0.07      
+att_gyro: 0.00         -0.00      1.00         
+sensors->acc: -0.00 -0.00  1.00         
+Attitude Estimate:0.00         -0.00      1.00         
+Euler   Angle (deg ): -0.04         0.15      0.00         
+Angle   Rate  (dps ): 0.04         -0.19      -0.07         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 13               -49               1               0                    
+1st : 1   
+2nd : 0   
+3rd : 1   
+4th : 0   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   -0.00   1.00   
+MPU6050 Gyro  (dps ): 0.23   -0.31    0.23      
+att_gyro: 0.00         0.00      1.00         
+sensors->acc: -0.00 -0.00  1.00         
+Attitude Estimate:0.00         0.00      1.00         
+Euler   Angle (deg ): 0.03         0.23      0.00         
+Angle   Rate  (dps ): 0.23         -0.31      0.23         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): -10               -81               -4               0                    
+1st : 1   
+2nd : 1   
+3rd : 1   
+4th : 1   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.00   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.07    0.05      
+att_gyro: 0.00         0.00      1.00         
+sensors->acc: 0.00 0.00  1.00         
+Attitude Estimate:0.00         0.00      1.00         
+Euler   Angle (deg ): 0.01         0.24      0.00         
+Angle   Rate  (dps ): -0.08         -0.07      0.05         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2               -98               0               0                    
+1st : 2   
+2nd : 1   
+3rd : 2   
+4th : 1   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   -0.00   1.00   
+MPU6050 Gyro  (dps ): 0.35   0.73    0.29      
+att_gyro: 0.00         0.00      1.00         
+sensors->acc: -0.00 -0.00  1.00         
+Attitude Estimate:-0.00         0.00      1.00         
+Euler   Angle (deg ): 0.11         -0.00      0.00         
+Angle   Rate  (dps ): 0.35         0.73      0.29         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): -39               -45               -5               0                    
+1st : 0   
+2nd : 1   
+3rd : 0   
+4th : 1   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.04   -0.02   1.00   
+MPU6050 Gyro  (dps ): -10.70   22.21    1.27      
+att_gyro: -0.12         -0.06      0.99         
+sensors->acc: -0.04 -0.02  1.00         
+Attitude Estimate:-0.12         -0.06      0.99         
+Euler   Angle (deg ): -3.18         -6.92      0.00         
+Angle   Rate  (dps ): -10.70         22.21      1.27         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1240               1757               -25               0                    
+1st : 10   
+2nd : 59   
+3rd : 9   
+4th : 60   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.13   -0.00   0.99   
+MPU6050 Gyro  (dps ): 7.31   12.02    3.04      
+att_gyro: -0.19         -0.01      0.98         
+sensors->acc: -0.13 -0.00  0.99         
+Attitude Estimate:-0.18         -0.01      0.98         
+Euler   Angle (deg ): -0.73         -10.68      0.00         
+Angle   Rate  (dps ): 7.31         12.02      3.04         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 215               3452               -60               0                    
+1st : 65   
+2nd : 72   
+3rd : 63   
+4th : 74   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.21   0.02   0.98   
+MPU6050 Gyro  (dps ): -2.70   13.73    2.98      
+att_gyro: -0.26         -0.02      0.96         
+sensors->acc: -0.21 0.02  0.98         
+Attitude Estimate:-0.26         -0.02      0.97         
+Euler   Angle (deg ): -1.28         -14.99      0.00         
+Angle   Rate  (dps ): -2.70         13.73      2.98         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 621               5237               -59               0                    
+1st : 93   
+2nd : 115   
+3rd : 91   
+4th : 118   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.29   0.03   0.95   
+MPU6050 Gyro  (dps ): -3.13   20.01    4.99      
+att_gyro: -0.36         -0.03      0.93         
+sensors->acc: -0.30 0.03  0.95         
+Attitude Estimate:-0.36         -0.03      0.93         
+Euler   Angle (deg ): -1.63         -21.33      0.00         
+Angle   Rate  (dps ): -3.13         20.01      4.99         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 795               7756               -99               0                    
+1st : 141   
+2nd : 169   
+3rd : 137   
+4th : 173   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.40   0.03   0.92   
+MPU6050 Gyro  (dps ): 1.39   16.35    -3.92      
+att_gyro: -0.44         -0.03      0.89         
+sensors->acc: -0.40 0.03  0.92         
+Attitude Estimate:-0.44         -0.03      0.90         
+Euler   Angle (deg ): -1.52         -26.47      0.00         
+Angle   Rate  (dps ): 1.39         16.35      -3.92         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 735               10000               78               0                    
+1st : 183   
+2nd : 216   
+3rd : 186   
+4th : 213   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.47   0.02   0.89   
+MPU6050 Gyro  (dps ): 0.84   8.36    -3.67      
+att_gyro: -0.48         -0.03      0.87         
+sensors->acc: -0.46 0.02  0.88         
+Attitude Estimate:-0.48         -0.03      0.87         
+Euler   Angle (deg ): -1.67         -29.09      0.00         
+Angle   Rate  (dps ): 0.84         8.36      -3.67         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 853               9895               73               0                    
+1st : 179   
+2nd : 216   
+3rd : 182   
+4th : 213   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.50   0.02   0.87   
+MPU6050 Gyro  (dps ): -0.20   7.68    -1.29      
+att_gyro: -0.52         -0.03      0.85         
+sensors->acc: -0.50 0.02  0.87         
+Attitude Estimate:-0.52         -0.03      0.85         
+Euler   Angle (deg ): -1.77         -31.51      0.00         
+Angle   Rate  (dps ): -0.20         7.68      -1.29         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 973               10000               25               0                    
+1st : 180   
+2nd : 219   
+3rd : 181   
+4th : 218   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.56   0.03   0.83   
+MPU6050 Gyro  (dps ): 1.57   11.59    1.58      
+att_gyro: -0.57         -0.02      0.82         
+sensors->acc: -0.56 0.03  0.83         
+Attitude Estimate:-0.57         -0.02      0.82         
+Euler   Angle (deg ): -0.97         -35.19      0.00         
+Angle   Rate  (dps ): 1.57         11.59      1.58         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 750               10000               -31               0                    
+1st : 185   
+2nd : 214   
+3rd : 184   
+4th : 215   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.60   0.02   0.81   
+MPU6050 Gyro  (dps ): 1.02   8.54    2.31      
+att_gyro: -0.61         -0.00      0.79         
+sensors->acc: -0.60 0.02  0.80         
+Attitude Estimate:-0.61         -0.00      0.79         
+Euler   Angle (deg ): -0.21         -37.85      0.00         
+Angle   Rate  (dps ): 1.02         8.54      2.31         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 554               10000               -46               0                    
+1st : 189   
+2nd : 210   
+3rd : 188   
+4th : 212   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.65   0.03   0.77   
+MPU6050 Gyro  (dps ): 0.90   6.77    2.25      
+att_gyro: -0.64         0.01      0.77         
+sensors->acc: -0.65 0.03  0.76         
+Attitude Estimate:-0.64         0.01      0.77         
+Euler   Angle (deg ): 0.51         -39.98      0.00         
+Angle   Rate  (dps ): 0.90         6.77      2.25         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 334               10000               -44               0                    
+1st : 194   
+2nd : 205   
+3rd : 192   
+4th : 207   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.70   0.02   0.72   
+MPU6050 Gyro  (dps ): 0.41   14.34    0.05      
+att_gyro: -0.70         0.01      0.71         
+sensors->acc: -0.69 0.02  0.72         
+Attitude Estimate:-0.70         0.01      0.71         
+Euler   Angle (deg ): 0.65         -44.22      0.00         
+Angle   Rate  (dps ): 0.41         14.34      0.05         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 278               10000               0               0                    
+1st : 194   
+2nd : 205   
+3rd : 194   
+4th : 205   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.75   0.03   0.68   
+MPU6050 Gyro  (dps ): 0.29   10.00    -0.19      
+att_gyro: -0.74         0.01      0.67         
+sensors->acc: -0.74 0.03  0.67         
+Attitude Estimate:-0.74         0.01      0.67         
+Euler   Angle (deg ): 0.71         -47.59      0.00         
+Angle   Rate  (dps ): 0.29         10.00      -0.19         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 235               10000               3               0                    
+1st : 195   
+2nd : 204   
+3rd : 195   
+4th : 204   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.77   0.03   0.65   
+MPU6050 Gyro  (dps ): -0.26   2.74    0.66      
+att_gyro: -0.75         0.01      0.66         
+sensors->acc: -0.76 0.03  0.64         
+Attitude Estimate:-0.75         0.01      0.66         
+Euler   Angle (deg ): 0.84         -48.47      0.00         
+Angle   Rate  (dps ): -0.26         2.74      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 175               10000               -13               0                    
+1st : 196   
+2nd : 203   
+3rd : 196   
+4th : 203   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.03   0.64   
+MPU6050 Gyro  (dps ): 0.04   2.98    -0.87      
+att_gyro: -0.76         0.01      0.65         
+sensors->acc: -0.78 0.03  0.63         
+Attitude Estimate:-0.76         0.01      0.65         
+Euler   Angle (deg ): 0.68         -49.45      0.00         
+Angle   Rate  (dps ): 0.04         2.98      -0.87         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 187               10000               17               0                    
+1st : 195   
+2nd : 204   
+3rd : 196   
+4th : 203   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.02   0.63   
+MPU6050 Gyro  (dps ): -0.02   -0.13    -0.74      
+att_gyro: -0.76         0.01      0.65         
+sensors->acc: -0.78 0.02  0.62         
+Attitude Estimate:-0.76         0.01      0.65         
+Euler   Angle (deg ): 0.54         -49.50      0.00         
+Angle   Rate  (dps ): -0.02         -0.13      -0.74         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 207               10000               14               0                    
+1st : 195   
+2nd : 204   
+3rd : 196   
+4th : 203   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.03   0.63   
+MPU6050 Gyro  (dps ): 0.23   -1.10    -0.93      
+att_gyro: -0.76         0.01      0.65         
+sensors->acc: -0.78 0.03  0.62         
+Attitude Estimate:-0.76         0.01      0.65         
+Euler   Angle (deg ): 0.41         -49.27      0.00         
+Angle   Rate  (dps ): 0.23         -1.10      -0.93         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 221               10000               18               0                    
+1st : 195   
+2nd : 204   
+3rd : 195   
+4th : 204   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.03   0.64   
+MPU6050 Gyro  (dps ): -0.08   -1.04    -0.13      
+att_gyro: -0.75         0.01      0.65         
+sensors->acc: -0.78 0.03  0.63         
+Attitude Estimate:-0.76         0.01      0.65         
+Euler   Angle (deg ): 0.42         -49.05      0.00         
+Angle   Rate  (dps ): -0.08         -1.04      -0.13         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 210               10000               2               0                    
+1st : 195   
+2nd : 204   
+3rd : 195   
+4th : 204   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.03   0.63   
+MPU6050 Gyro  (dps ): -0.02   0.48    0.35      
+att_gyro: -0.76         0.01      0.65         
+sensors->acc: -0.78 0.02  0.63         
+Attitude Estimate:-0.76         0.01      0.65         
+Euler   Angle (deg ): 0.54         -49.28      0.00         
+Angle   Rate  (dps ): -0.02         0.48      0.35         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 151               10000               -7               0                    
+1st : 197   
+2nd : 202   
+3rd : 196   
+4th : 203   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.79   0.02   0.63   
+MPU6050 Gyro  (dps ): 0.78   -5.38    0.90      
+att_gyro: -0.74         0.02      0.67         
+sensors->acc: -0.78 0.02  0.62         
+Attitude Estimate:-0.74         0.02      0.67         
+Euler   Angle (deg ): 0.95         -47.83      0.00         
+Angle   Rate  (dps ): 0.78         -5.38      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): -18               10000               -18               0                    
+1st : 200   
+2nd : 199   
+3rd : 200   
+4th : 200   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.72   0.02   0.70   
+MPU6050 Gyro  (dps ): -0.51   -34.92    2.00      
+att_gyro: -0.60         0.02      0.80         
+sensors->acc: -0.72 0.02  0.70         
+Attitude Estimate:-0.60         0.02      0.80         
+Euler   Angle (deg ): 1.30         -37.34      0.00         
+Angle   Rate  (dps ): -0.51         -34.92      2.00         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): -142               9289               -40               0                    
+1st : 189   
+2nd : 182   
+3rd : 187   
+4th : 183   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.57   0.03   0.81   
+MPU6050 Gyro  (dps ): -4.96   -47.12    -6.42      
+att_gyro: -0.37         -0.02      0.92         
+sensors->acc: -0.57 0.03  0.82         
+Attitude Estimate:-0.38         -0.02      0.92         
+Euler   Angle (deg ): -1.26         -22.77      0.00         
+Angle   Rate  (dps ): -4.96         -47.12      -6.42         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 721               6322               128               0                    
+1st : 109   
+2nd : 143   
+3rd : 114   
+4th : 138   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.39   0.02   0.91   
+MPU6050 Gyro  (dps ): -1.36   -36.87    -1.78      
+att_gyro: -0.19         -0.03      0.98         
+sensors->acc: -0.39 0.02  0.92         
+Attitude Estimate:-0.20         -0.03      0.98         
+Euler   Angle (deg ): -1.77         -11.40      0.00         
+Angle   Rate  (dps ): -1.36         -36.87      -1.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 863               3356               35               0                    
+1st : 49   
+2nd : 85   
+3rd : 50   
+4th : 83   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.23   0.02   0.97   
+MPU6050 Gyro  (dps ): -0.69   -25.40    2.80      
+att_gyro: -0.06         -0.03      0.99         
+sensors->acc: -0.23 0.02  0.97         
+Attitude Estimate:-0.06         -0.03      0.99         
+Euler   Angle (deg ): -1.68         -3.72      0.00         
+Angle   Rate  (dps ): -0.69         -25.40      2.80         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 893               1105               -55               0                    
+1st : 5   
+2nd : 38   
+3rd : 3   
+4th : 41   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.10   0.01   1.01   
+MPU6050 Gyro  (dps ): -2.40   -14.29    1.21      
+att_gyro: 0.01         -0.04      0.99         
+sensors->acc: -0.09 0.01  0.99         
+Attitude Estimate:0.01         -0.04      0.99         
+Euler   Angle (deg ): -2.29         0.56      0.00         
+Angle   Rate  (dps ): -2.40         -14.29      1.21         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1190               -347               -24               0                    
+1st : 30   
+2nd : 16   
+3rd : 31   
+4th : 17   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.02   -0.00   1.00   
+MPU6050 Gyro  (dps ): -0.99   -12.82    3.53      
+att_gyro: 0.08         -0.05      0.99         
+sensors->acc: -0.02 -0.00  1.00         
+Attitude Estimate:0.08         -0.04      0.99         
+Euler   Angle (deg ): -2.50         4.35      0.00         
+Angle   Rate  (dps ): -0.99         -12.82      3.53         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1323               -1623               -70               0                    
+1st : 57   
+2nd : 7   
+3rd : 60   
+4th : 4   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.07   0.00   1.00   
+MPU6050 Gyro  (dps ): 1.20   -15.02    1.09      
+att_gyro: 0.16         -0.04      0.98         
+sensors->acc: 0.07 0.00  1.00         
+Attitude Estimate:0.15         -0.04      0.98         
+Euler   Angle (deg ): -2.05         8.90      0.00         
+Angle   Rate  (dps ): 1.20         -15.02      1.09         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1231               -3223               -21               0                    
+1st : 88   
+2nd : 40   
+3rd : 89   
+4th : 39   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.14   -0.00   0.99   
+MPU6050 Gyro  (dps ): 0.53   -9.22    1.45      
+att_gyro: 0.20         -0.03      0.97         
+sensors->acc: 0.14 -0.00  0.99         
+Attitude Estimate:0.20         -0.03      0.97         
+Euler   Angle (deg ): -1.87         11.68      0.00         
+Angle   Rate  (dps ): 0.53         -9.22      1.45         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1268               -4590               -29               0                    
+1st : 116   
+2nd : 67   
+3rd : 117   
+4th : 65   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.19   0.00   0.98   
+MPU6050 Gyro  (dps ): 0.78   -7.51    -0.74      
+att_gyro: 0.24         -0.03      0.96         
+sensors->acc: 0.19 0.00  0.98         
+Attitude Estimate:0.24         -0.03      0.97         
+Euler   Angle (deg ): -1.50         13.97      0.00         
+Angle   Rate  (dps ): 0.78         -7.51      -0.74         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1219               -5833               14               0                    
+1st : 141   
+2nd : 92   
+3rd : 140   
+4th : 92   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.23   0.00   0.97   
+MPU6050 Gyro  (dps ): 0.29   -2.81    -0.38      
+att_gyro: 0.25         -0.02      0.96         
+sensors->acc: 0.23 0.00  0.97         
+Attitude Estimate:0.25         -0.02      0.96         
+Euler   Angle (deg ): -1.30         14.80      0.00         
+Angle   Rate  (dps ): 0.29         -2.81      -0.38         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1226               -6753               7               0                    
+1st : 159   
+2nd : 110   
+3rd : 159   
+4th : 110   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.25   0.01   0.96   
+MPU6050 Gyro  (dps ): -0.14   -4.10    1.09      
+att_gyro: 0.28         -0.02      0.96         
+sensors->acc: 0.25 0.01  0.97         
+Attitude Estimate:0.27         -0.02      0.96         
+Euler   Angle (deg ): -1.34         16.05      0.00         
+Angle   Rate  (dps ): -0.14         -4.10      1.09         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1298               -7724               -21               0                    
+1st : 180   
+2nd : 128   
+3rd : 180   
+4th : 128   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.27   0.01   0.96   
+MPU6050 Gyro  (dps ): -0.14   -2.20    0.84      
+att_gyro: 0.29         -0.03      0.95         
+sensors->acc: 0.27 0.01  0.96         
+Attitude Estimate:0.28         -0.02      0.95         
+Euler   Angle (deg ): -1.36         16.71      0.00         
+Angle   Rate  (dps ): -0.14         -2.20      0.84         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1359               -8616               -16               0                    
+1st : 199   
+2nd : 145   
+3rd : 199   
+4th : 144   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.28   0.01   0.95   
+MPU6050 Gyro  (dps ): 0.16   -2.33    0.84      
+att_gyro: 0.30         -0.02      0.95         
+sensors->acc: 0.29 0.01  0.96         
+Attitude Estimate:0.30         -0.02      0.95         
+Euler   Angle (deg ): -1.30         17.42      0.00         
+Angle   Rate  (dps ): 0.16         -2.33      0.84         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1386               -9512               -16               0                    
+1st : 217   
+2nd : 162   
+3rd : 218   
+4th : 162   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.31   0.01   0.95   
+MPU6050 Gyro  (dps ): -0.32   -3.48    1.94      
+att_gyro: 0.31         -0.03      0.94         
+sensors->acc: 0.31 0.01  0.95         
+Attitude Estimate:0.31         -0.03      0.94         
+Euler   Angle (deg ): -1.48         18.51      0.00         
+Angle   Rate  (dps ): -0.32         -3.48      1.94         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1507               -10000               -38               0                    
+1st : 229   
+2nd : 170   
+3rd : 230   
+4th : 169   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.32   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.10   -5.19    -0.07      
+att_gyro: 0.34         -0.03      0.93         
+sensors->acc: 0.32 0.01  0.94         
+Attitude Estimate:0.34         -0.02      0.93         
+Euler   Angle (deg ): -1.34         20.15      0.00         
+Angle   Rate  (dps ): 0.10         -5.19      -0.07         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1514               -10000               1               0                    
+1st : 230   
+2nd : 169   
+3rd : 230   
+4th : 169   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.34   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.29   -2.20    0.48      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.34 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.22         20.81      0.00         
+Angle   Rate  (dps ): 0.29         -2.20      0.48         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1522               -10000               -9               0                    
+1st : 230   
+2nd : 169   
+3rd : 230   
+4th : 169   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.08   -0.62    0.90      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.25         20.97      0.00         
+Angle   Rate  (dps ): -0.08         -0.62      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1588               -10000               -18               0                    
+1st : 231   
+2nd : 168   
+3rd : 232   
+4th : 167   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.08   -0.07    0.72      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.26         20.97      0.00         
+Angle   Rate  (dps ): -0.08         -0.07      0.72         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1642               -10000               -14               0                    
+1st : 232   
+2nd : 167   
+3rd : 233   
+4th : 166   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): 0.04   -0.19    0.96      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.26         21.01      0.00         
+Angle   Rate  (dps ): 0.04         -0.19      0.96         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1692               -10000               -19               0                    
+1st : 233   
+2nd : 166   
+3rd : 234   
+4th : 165   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.02   -0.37    0.48      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.93         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.22         21.10      0.00         
+Angle   Rate  (dps ): -0.02         -0.37      0.48         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1731               -10000               -9               0                    
+1st : 234   
+2nd : 165   
+3rd : 234   
+4th : 165   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.02   0.12    0.66      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.21         21.04      0.00         
+Angle   Rate  (dps ): -0.02         0.12      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1776               -10000               -13               0                    
+1st : 235   
+2nd : 164   
+3rd : 235   
+4th : 164   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): 0.04   -0.25    1.15      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.24         21.09      0.00         
+Angle   Rate  (dps ): 0.04         -0.25      1.15         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1831               -10000               -22               0                    
+1st : 236   
+2nd : 163   
+3rd : 237   
+4th : 162   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.02   -0.01    0.66      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.22         21.06      0.00         
+Angle   Rate  (dps ): -0.02         -0.01      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1878               -10000               -13               0                    
+1st : 237   
+2nd : 162   
+3rd : 237   
+4th : 162   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.08   -0.25    0.72      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.24         21.10      0.00         
+Angle   Rate  (dps ): -0.08         -0.25      0.72         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1933               -10000               -14               0                    
+1st : 238   
+2nd : 161   
+3rd : 238   
+4th : 161   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.14   0.18    0.66      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.26         21.01      0.00         
+Angle   Rate  (dps ): -0.14         0.18      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 1990               -10000               -13               0                    
+1st : 239   
+2nd : 160   
+3rd : 240   
+4th : 159   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.45   0.12    0.23      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.32         20.95      0.00         
+Angle   Rate  (dps ): -0.45         0.12      0.23         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2067               -10000               -4               0                    
+1st : 241   
+2nd : 158   
+3rd : 241   
+4th : 158   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.08   -0.80    0.42      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.30         21.17      0.00         
+Angle   Rate  (dps ): -0.08         -0.80      0.42         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2105               -10000               -8               0                    
+1st : 241   
+2nd : 158   
+3rd : 242   
+4th : 157   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): 0.35   -0.25    0.29      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.15         21.21      0.00         
+Angle   Rate  (dps ): 0.35         -0.25      0.29         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2099               -10000               -5               0                    
+1st : 241   
+2nd : 158   
+3rd : 242   
+4th : 157   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.08   0.06    0.29      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.12         21.15      0.00         
+Angle   Rate  (dps ): -0.08         0.06      0.29         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2144               -10000               -5               0                    
+1st : 242   
+2nd : 157   
+3rd : 242   
+4th : 157   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): 0.04   -0.01    0.90      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.12         21.12      0.00         
+Angle   Rate  (dps ): 0.04         -0.01      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2188               -10000               -18               0                    
+1st : 243   
+2nd : 156   
+3rd : 244   
+4th : 155   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.02   -0.13    0.72      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.12         21.12      0.00         
+Angle   Rate  (dps ): -0.02         -0.13      0.72         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2234               -10000               -14               0                    
+1st : 244   
+2nd : 155   
+3rd : 244   
+4th : 155   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.04   -1.23    -0.44      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -0.97         21.47      0.00         
+Angle   Rate  (dps ): 0.04         -1.23      -0.44         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2230               -10000               8               0                    
+1st : 244   
+2nd : 155   
+3rd : 244   
+4th : 155   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.10   -0.19    1.09      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -0.99         21.47      0.00         
+Angle   Rate  (dps ): 0.10         -0.19      1.09         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2272               -10000               -21               0                    
+1st : 245   
+2nd : 154   
+3rd : 245   
+4th : 154   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.08   -0.31    0.90      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.03         21.52      0.00         
+Angle   Rate  (dps ): -0.08         -0.31      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2330               -10000               -18               0                    
+1st : 246   
+2nd : 153   
+3rd : 246   
+4th : 153   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.16   0.73    0.84      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.00         21.24      0.00         
+Angle   Rate  (dps ): 0.16         0.73      0.84         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2354               -10000               -16               0                    
+1st : 246   
+2nd : 153   
+3rd : 247   
+4th : 152   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.02   -0.49    0.42      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -0.97         21.36      0.00         
+Angle   Rate  (dps ): -0.02         -0.49      0.42         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2390               -10000               -8               0                    
+1st : 247   
+2nd : 152   
+3rd : 247   
+4th : 152   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.34   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.04   0.06    1.33      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.34 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.03         21.28      0.00         
+Angle   Rate  (dps ): 0.04         0.06      1.33         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2446               -10000               -26               0                    
+1st : 248   
+2nd : 151   
+3rd : 249   
+4th : 150   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.08   0.12    0.72      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.05         21.20      0.00         
+Angle   Rate  (dps ): -0.08         0.12      0.72         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2496               -10000               -14               0                    
+1st : 249   
+2nd : 150   
+3rd : 250   
+4th : 149   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.38   0.85    0.11      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.09         20.90      0.00         
+Angle   Rate  (dps ): -0.38         0.85      0.11         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2559               -10000               -2               0                    
+1st : 251   
+2nd : 148   
+3rd : 251   
+4th : 148   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.34   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.02   -0.74    0.78      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.34 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.10         21.09      0.00         
+Angle   Rate  (dps ): -0.02         -0.74      0.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2598               -10000               -15               0                    
+1st : 251   
+2nd : 148   
+3rd : 252   
+4th : 147   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.34   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.20   0.12    0.35      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.34 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.12         21.01      0.00         
+Angle   Rate  (dps ): -0.20         0.12      0.35         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2651               -10000               -7               0                    
+1st : 252   
+2nd : 147   
+3rd : 253   
+4th : 146   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.34   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.08   0.36    0.60      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.34 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.12         20.86      0.00         
+Angle   Rate  (dps ): -0.08         0.36      0.60         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2694               -10000               -11               0                    
+1st : 253   
+2nd : 146   
+3rd : 254   
+4th : 145   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.02   -0.31    0.66      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.12         20.93      0.00         
+Angle   Rate  (dps ): -0.02         -0.31      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2736               -10000               -13               0                    
+1st : 254   
+2nd : 145   
+3rd : 254   
+4th : 145   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.10   0.06    1.03      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.11         20.89      0.00         
+Angle   Rate  (dps ): 0.10         0.06      1.03         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2778               -10000               -20               0                    
+1st : 255   
+2nd : 144   
+3rd : 255   
+4th : 144   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.14   -0.01    0.90      
+att_gyro: 0.35         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.35         -0.02      0.93         
+Euler   Angle (deg ): -1.17         20.87      0.00         
+Angle   Rate  (dps ): -0.14         -0.01      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2844               -10000               -18               0                    
+1st : 256   
+2nd : 143   
+3rd : 257   
+4th : 142   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.08   -1.04    0.54      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.16         21.18      0.00         
+Angle   Rate  (dps ): -0.08         -1.04      0.54         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2887               -10000               -10               0                    
+1st : 257   
+2nd : 142   
+3rd : 257   
+4th : 142   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): -0.02   -0.43    0.90      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.18         21.27      0.00         
+Angle   Rate  (dps ): -0.02         -0.43      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2940               -10000               -18               0                    
+1st : 258   
+2nd : 141   
+3rd : 259   
+4th : 140   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.94   
+MPU6050 Gyro  (dps ): 0.04   -0.49    0.90      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.18         21.38      0.00         
+Angle   Rate  (dps ): 0.04         -0.49      0.90         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 2986               -10000               -18               0                    
+1st : 259   
+2nd : 140   
+3rd : 260   
+4th : 139   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.02   -0.31    0.78      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.19         21.43      0.00         
+Angle   Rate  (dps ): -0.02         -0.31      0.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3037               -10000               -15               0                    
+1st : 260   
+2nd : 139   
+3rd : 261   
+4th : 138   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.08   -0.13    0.78      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.93         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.22         21.44      0.00         
+Angle   Rate  (dps ): -0.08         -0.13      0.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3094               -10000               -15               0                    
+1st : 261   
+2nd : 138   
+3rd : 262   
+4th : 137   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.35   0.01   0.93   
+MPU6050 Gyro  (dps ): -0.20   -0.07    0.35      
+att_gyro: 0.36         -0.02      0.93         
+sensors->acc: 0.35 0.01  0.94         
+Attitude Estimate:0.36         -0.02      0.93         
+Euler   Angle (deg ): -1.22         21.41      0.00         
+Angle   Rate  (dps ): -0.20         -0.07      0.35         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3148               -10000               -7               0                    
+1st : 262   
+2nd : 137   
+3rd : 263   
+4th : 136   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.32   0.02   0.94   
+MPU6050 Gyro  (dps ): -1.48   8.23    0.96      
+att_gyro: 0.32         -0.03      0.94         
+sensors->acc: 0.32 0.02  0.95         
+Attitude Estimate:0.32         -0.03      0.94         
+Euler   Angle (deg ): -1.64         18.74      0.00         
+Angle   Rate  (dps ): -1.48         8.23      0.96         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3358               -9716               -19               0                    
+1st : 261   
+2nd : 127   
+3rd : 261   
+4th : 126   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.25   0.01   0.96   
+MPU6050 Gyro  (dps ): -2.70   27.95    3.77      
+att_gyro: 0.17         -0.05      0.98         
+sensors->acc: 0.25 0.01  0.97         
+Attitude Estimate:0.17         -0.05      0.98         
+Euler   Angle (deg ): -2.73         9.89      0.00         
+Angle   Rate  (dps ): -2.70         27.95      3.77         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3799               -8004               -75               0                    
+1st : 234   
+2nd : 85   
+3rd : 237   
+4th : 82   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.12   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.63   25.51    -1.17      
+att_gyro: 0.03         -0.05      1.00         
+sensors->acc: 0.12 0.00  0.99         
+Attitude Estimate:0.03         -0.05      1.00         
+Euler   Angle (deg ): -2.72         1.97      0.00         
+Angle   Rate  (dps ): -0.63         25.51      -1.17         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3864               -5792               23               0                    
+1st : 193   
+2nd : 38   
+3rd : 192   
+4th : 39   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): 0.01   0.02   1.01   
+MPU6050 Gyro  (dps ): -1.30   11.35    0.05      
+att_gyro: -0.03         -0.05      1.00         
+sensors->acc: 0.01 0.02  1.00         
+Attitude Estimate:-0.03         -0.05      1.00         
+Euler   Angle (deg ): -2.95         -1.56      0.00         
+Angle   Rate  (dps ): -1.30         11.35      0.05         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4059               -4449               0               0                    
+1st : 170   
+2nd : 7   
+3rd : 170   
+4th : 7   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.14   0.01   0.98   
+MPU6050 Gyro  (dps ): 1.63   37.65    0.60      
+att_gyro: -0.23         -0.04      0.97         
+sensors->acc: -0.14 0.01  0.99         
+Attitude Estimate:-0.23         -0.04      0.97         
+Euler   Angle (deg ): -2.30         -13.43      0.00         
+Angle   Rate  (dps ): 1.63         37.65      0.60         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 3909               -1083               -11               0                    
+1st : 99   
+2nd : 56   
+3rd : 100   
+4th : 56   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.28   0.01   0.95   
+MPU6050 Gyro  (dps ): -0.20   24.71    -3.43      
+att_gyro: -0.36         -0.05      0.93         
+sensors->acc: -0.29 0.01  0.96         
+Attitude Estimate:-0.36         -0.04      0.93         
+Euler   Angle (deg ): -2.47         -21.18      0.00         
+Angle   Rate  (dps ): -0.20         24.71      -3.43         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4092               2214               68               0                    
+1st : 38   
+2nd : 127   
+3rd : 36   
+4th : 124   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.42   0.01   0.90   
+MPU6050 Gyro  (dps ): 0.35   20.20    -0.01      
+att_gyro: -0.46         -0.04      0.88         
+sensors->acc: -0.42 0.01  0.90         
+Attitude Estimate:-0.46         -0.04      0.88         
+Euler   Angle (deg ): -2.23         -27.64      0.00         
+Angle   Rate  (dps ): 0.35         20.20      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4104               5238               0               0                    
+1st : 22   
+2nd : 186   
+3rd : 22   
+4th : 186   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.51   0.02   0.86   
+MPU6050 Gyro  (dps ): -0.81   3.66    -1.78      
+att_gyro: -0.48         -0.05      0.87         
+sensors->acc: -0.51 0.02  0.86         
+Attitude Estimate:-0.48         -0.04      0.87         
+Euler   Angle (deg ): -2.54         -28.92      0.00         
+Angle   Rate  (dps ): -0.81         3.66      -1.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4315               7086               35               0                    
+1st : 54   
+2nd : 228   
+3rd : 56   
+4th : 227   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.54   0.02   0.85   
+MPU6050 Gyro  (dps ): 0.47   -0.01    -0.99      
+att_gyro: -0.48         -0.04      0.87         
+sensors->acc: -0.53 0.02  0.84         
+Attitude Estimate:-0.48         -0.04      0.87         
+Euler   Angle (deg ): -2.37         -29.07      0.00         
+Angle   Rate  (dps ): 0.47         -0.01      -0.99         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4338               8366               19               0                    
+1st : 80   
+2nd : 254   
+3rd : 80   
+4th : 253   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.55   0.02   0.85   
+MPU6050 Gyro  (dps ): 0.23   -0.86    -0.01      
+att_gyro: -0.48         -0.04      0.87         
+sensors->acc: -0.54 0.02  0.84         
+Attitude Estimate:-0.48         -0.04      0.87         
+Euler   Angle (deg ): -2.15         -29.00      0.00         
+Angle   Rate  (dps ): 0.23         -0.86      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4364               9522               0               0                    
+1st : 103   
+2nd : 277   
+3rd : 103   
+4th : 277   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.55   0.02   0.85   
+MPU6050 Gyro  (dps ): 0.10   -0.92    -0.01      
+att_gyro: -0.47         -0.04      0.88         
+sensors->acc: -0.54 0.02  0.84         
+Attitude Estimate:-0.48         -0.03      0.87         
+Euler   Angle (deg ): -1.96         -28.91      0.00         
+Angle   Rate  (dps ): 0.10         -0.92      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4391               10000               0               0                    
+1st : 112   
+2nd : 287   
+3rd : 112   
+4th : 287   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.55   0.03   0.85   
+MPU6050 Gyro  (dps ): -0.14   0.97    -0.56      
+att_gyro: -0.48         -0.04      0.87         
+sensors->acc: -0.54 0.03  0.84         
+Attitude Estimate:-0.49         -0.03      0.87         
+Euler   Angle (deg ): -1.91         -29.42      0.00         
+Angle   Rate  (dps ): -0.14         0.97      -0.56         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4460               10000               11               0                    
+1st : 110   
+2nd : 289   
+3rd : 111   
+4th : 288   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.55   0.03   0.85   
+MPU6050 Gyro  (dps ): 0.71   -1.23    0.48      
+att_gyro: -0.48         -0.03      0.87         
+sensors->acc: -0.54 0.03  0.84         
+Attitude Estimate:-0.48         -0.03      0.87         
+Euler   Angle (deg ): -1.49         -29.22      0.00         
+Angle   Rate  (dps ): 0.71         -1.23      0.48         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4382               10000               -9               0                    
+1st : 112   
+2nd : 287   
+3rd : 112   
+4th : 287   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.55   0.03   0.85   
+MPU6050 Gyro  (dps ): -0.38   0.73    0.17      
+att_gyro: -0.49         -0.03      0.87         
+sensors->acc: -0.54 0.03  0.84         
+Attitude Estimate:-0.49         -0.02      0.87         
+Euler   Angle (deg ): -1.42         -29.63      0.00         
+Angle   Rate  (dps ): -0.38         0.73      0.17         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4442               10000               -3               0                    
+1st : 111   
+2nd : 288   
+3rd : 111   
+4th : 288   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.54   0.02   0.85   
+MPU6050 Gyro  (dps ): 0.16   -0.80    0.35      
+att_gyro: -0.48         -0.02      0.87         
+sensors->acc: -0.54 0.02  0.84         
+Attitude Estimate:-0.49         -0.02      0.87         
+Euler   Angle (deg ): -1.19         -29.53      0.00         
+Angle   Rate  (dps ): 0.16         -0.80      0.35         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4415               10000               -7               0                    
+1st : 111   
+2nd : 288   
+3rd : 111   
+4th : 288   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.53   0.02   0.86   
+MPU6050 Gyro  (dps ): 0.04   -0.80    0.48      
+att_gyro: -0.48         -0.02      0.87         
+sensors->acc: -0.53 0.02  0.85         
+Attitude Estimate:-0.49         -0.02      0.87         
+Euler   Angle (deg ): -0.99         -29.41      0.00         
+Angle   Rate  (dps ): 0.04         -0.80      0.48         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4400               10000               -9               0                    
+1st : 112   
+2nd : 287   
+3rd : 111   
+4th : 288   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.53   0.02   0.86   
+MPU6050 Gyro  (dps ): 1.02   -6.78    1.94      
+att_gyro: -0.45         -0.01      0.89         
+sensors->acc: -0.53 0.02  0.85         
+Attitude Estimate:-0.46         -0.01      0.89         
+Euler   Angle (deg ): -0.32         -27.44      0.00         
+Angle   Rate  (dps ): 1.02         -6.78      1.94         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4203               10000               -38               0                    
+1st : 116   
+2nd : 283   
+3rd : 115   
+4th : 284   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.43   0.02   0.91   
+MPU6050 Gyro  (dps ): 0.16   -25.76    -1.78      
+att_gyro: -0.32         -0.01      0.94         
+sensors->acc: -0.43 0.02  0.90         
+Attitude Estimate:-0.33         -0.01      0.94         
+Euler   Angle (deg ): -0.45         -19.36      0.00         
+Angle   Rate  (dps ): 0.16         -25.76      -1.78         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4275               8507               35               0                    
+1st : 83   
+2nd : 256   
+3rd : 85   
+4th : 254   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.26   0.03   0.97   
+MPU6050 Gyro  (dps ): -0.69   -32.05    0.84      
+att_gyro: -0.16         -0.01      0.98         
+sensors->acc: -0.26 0.03  0.96         
+Attitude Estimate:-0.16         -0.01      0.98         
+Euler   Angle (deg ): -0.48         -9.28      0.00         
+Angle   Rate  (dps ): -0.69         -32.05      0.84         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4321               6155               -16               0                    
+1st : 37   
+2nd : 209   
+3rd : 36   
+4th : 209   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.09   0.01   0.99   
+MPU6050 Gyro  (dps ): -3.80   -8.49    0.66      
+att_gyro: -0.11         -0.03      0.99         
+sensors->acc: -0.09 0.01  0.99         
+Attitude Estimate:-0.11         -0.03      0.99         
+Euler   Angle (deg ): -1.55         -6.50      0.00         
+Angle   Rate  (dps ): -3.80         -8.49      0.66         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4747               5157               -13               0                    
+1st : 8   
+2nd : 197   
+3rd : 7   
+4th : 198   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.03   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.14   0.06    -0.13      
+att_gyro: -0.11         -0.03      0.99         
+sensors->acc: -0.03 0.00  1.00         
+Attitude Estimate:-0.11         -0.03      0.99         
+Euler   Angle (deg ): -1.51         -6.30      0.00         
+Angle   Rate  (dps ): -0.14         0.06      -0.13         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4723               5182               2               0                    
+1st : 9   
+2nd : 198   
+3rd : 9   
+4th : 198   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.01   0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.19    -0.07      
+att_gyro: -0.11         -0.03      0.99         
+sensors->acc: -0.01 0.00  1.00         
+Attitude Estimate:-0.10         -0.03      0.99         
+Euler   Angle (deg ): -1.46         -5.98      0.00         
+Angle   Rate  (dps ): -0.08         -0.19      -0.07         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4767               5336               1               0                    
+1st : 11   
+2nd : 202   
+3rd : 11   
+4th : 202   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.01   -0.00   1.00   
+MPU6050 Gyro  (dps ): -0.02   -0.19    -0.01      
+att_gyro: -0.10         -0.03      0.99         
+sensors->acc: -0.01 -0.00  1.00         
+Attitude Estimate:-0.10         -0.02      0.99         
+Euler   Angle (deg ): -1.40         -5.66      0.00         
+Angle   Rate  (dps ): -0.02         -0.19      -0.01         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4804               5471               0               0                    
+1st : 13   
+2nd : 205   
+3rd : 13   
+4th : 205   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.01   -0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.13    -0.07      
+att_gyro: -0.10         -0.02      0.99         
+sensors->acc: -0.01 -0.00  1.00         
+Attitude Estimate:-0.09         -0.02      0.99         
+Euler   Angle (deg ): -1.36         -5.36      0.00         
+Angle   Rate  (dps ): -0.08         -0.13      -0.07         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4848               5601               1               0                    
+1st : 15   
+2nd : 209   
+3rd : 15   
+4th : 208   
+R--ail: 0   
+L--ele: 0   
+R--thr: 68   
+L--rud: 0   
+MPU6050 Accel ( g  ): -0.00   -0.00   1.00   
+MPU6050 Gyro  (dps ): -0.08   -0.13    -0.07      
+att_gyro: -0.09         -0.02      0.99         
+sensors->acc: -0.00 -0.00  1.00         
+Attitude Estimate:-0.09         -0.02      0.99         
+Euler   Angle (deg ): -1.32         -5.08      0.00         
+Angle   Rate  (dps ): -0.08         -0.13      -0.07         
+Refer  Signal (----): 0.00    0.00    0.00      0.00
+Output Signal (----): 4891               5724               1               0                    
+1st : 16   
+2nd : 212   
+3rd : 16   
+4th : 212   
+Debug-usart1 is working

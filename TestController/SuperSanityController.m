@@ -36,7 +36,7 @@ p_o = double(roots(coe(end:-1:1)));
 
 
 %% 连续系统时域
-time_finish = 1.5;                                                  %仿真时间1.5s
+time_finish = 2;                                                  %仿真时间1.5s
 T = 0.02;                                                           %仿真步长20ms
 Reference_o = ones(1,time_finish/T);                                %阶跃参考信号
 t = 0:T:time_finish-T;
@@ -94,8 +94,10 @@ for i = 3:time_finish/T
         u_i_antiwindup(i) = -output_limit;
     end
     %内外环输出
-    y_i_antiwindup(i) = y_i_antiwindup(i-1)+u_i_antiwindup(i)*T;              %后面实际上更多的过程就是完善这个模型
-    y_o_antiwindup(i) = y_o_antiwindup(i-1)+y_i_antiwindup(i)*T;
+   y_i_antiwindup(i) = y_i_antiwindup(i-1)+u_i_antiwindup(i)*T;              %后面实际上更多的过程就是完善这个模型
+   y_o_antiwindup(i) = y_o_antiwindup(i-1)+y_i_antiwindup(i)*T;
+%     y_i(i) = 0;
+%     y_o(i) = 0;
 end
 
 

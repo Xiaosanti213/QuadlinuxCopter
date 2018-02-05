@@ -15,18 +15,20 @@ clc
 % atan2(-sqrt(3),1) * 180/(pi);  %  -60
 % atan2(-sqrt(3),-1) * 180/(pi); %  -120
 
-[raw_data]=importdata('r1.txt','%s'); 
+[raw_data]=importdata('t2.txt','%s'); 
 data_to_read = length(raw_data);
-data_length = floor((data_to_read-1)/4);%往小取整
+data_length = floor((data_to_read-1)/15);%往小取整
 
 acc = zeros(3, data_length);
 gyro = acc;
 mag = acc;
 baro = zeros(1, data_length);
-
-
 gyro_index = 1;
 acc_index = 1;
+
+euler_angle = acc;
+angle_rate = acc;
+ke = 1;
 for i = 2:1:data_to_read %跳过第一个时间
     str_temp = cell2mat(raw_data(i)); %每个元胞中的数据变成字符串数组
     % for j = 2:1:length(str_temp) %逐个读取其中的字符,第一个都是M故从第二个开始判断
@@ -80,20 +82,33 @@ for i = 2:1:data_to_read %跳过第一个时间
             %end
             %disp(gyro(:,gyro_index-1));
         end
+    elseif(str_temp(1) == 'E')% Euler Angle
+        euler_angle(1,ke) = str2double(str_temp(23:29));
+        euler_angle(2,ke) = str2double(str_temp(33:42));
+        euler_angle(3,ke) = str2double(str_temp(43:55));
+    elseif(str_temp(1) == 'A' && str_temp(2)== 'n')%Angle Rate
+        %一般输出角，随即输出角速度，特殊情况处理一下就好
+        angle_rate(1,ke) = str2double(str_temp(23:29));
+        angle_rate(2,ke) = str2double(str_temp(33:42));
+        angle_rate(3,ke) = str2double(str_temp(43:end));
+        ke = ke+1;
     else
         continue;    
     end
 end
 
 % 按照取向进行反转
-temp = gyro(1,:);
-gyro(1,:) = gyro(2,:);
-gyro(2,:) = temp;
-gyro(3,:) = gyro(3,:);
+% temp = gyro(1,:);
+% gyro(1,:) = gyro(2,:);
+% gyro(2,:) = temp;
+% gyro(3,:) = gyro(3,:);
+% 
+% temp = -acc(1,:);
+% acc(1,:) = -acc(2,:);
+% acc(2,:) = temp;
 
-temp = -acc(1,:);
-acc(1,:) = -acc(2,:);
-acc(2,:) = temp;
+%测试经过翻转和平滑滤波的数据不需要手动翻转
+
 
 %% 解算准备 数据首先需要进行转换 不考虑方向
 pitch = zeros(1, data_length); % 存储当前的Euler角表示姿态,姿态初始值都是0
@@ -111,7 +126,7 @@ att_gyro = zeros(3, data_length);
 att_est = att_gyro;
 att_acc = att_gyro;
 
-w_gyro = 5;%陀螺仪相对于加计的置信度(权重系数比值)
+w_gyro = 20;%陀螺仪相对于加计的置信度(权重系数比值)
 
 deltaT = 10/36;%大概通过测量获得采样周期，采样10s获得36组样本
 att_est(:,1) = [0;0;1];
@@ -144,16 +159,18 @@ profile viewer
 %% plot
 figure(1)%角度
 subplot(311)
-plot(t,roll,'-g');
+%plot(t,roll,'-g');
 hold on
 plot(t,roll_alter,'c');
+plot(t,euler_angle(1,:),'b.');%实际解算得到
 legend('滚转角 ');
 xlabel('Time (s)');
 ylabel('roll (deg)');
 subplot(312);
-plot(t,pitch,'-b');
+%plot(t,pitch,'-b');
 hold on
-%plot(t,pitch_alter,'c');
+plot(t,pitch_alter,'c');
+plot(t,euler_angle(2,:),'b.');%实际解算得到
 legend('俯仰角 ');
 xlabel('Time (s)');
 ylabel('pitch (deg)');
@@ -167,16 +184,22 @@ ylabel('yaw (deg)');
 figure(2)%角速度
 subplot(311)
 plot(t,gyro(1,:),'-g');
+hold on
+plot(t,angle_rate(1,:),'b.');%飞控解算角速度
 legend('滚转角速率 ');
 xlabel('Time (s)');
 ylabel('pitch (deg)');
 subplot(312);
 plot(t,gyro(2,:),'-b');
+hold on
+plot(t,angle_rate(2,:),'b.');
 legend('俯仰角速率 ');
 xlabel('Time (s)');
 ylabel('yaw (deg)');
 subplot(313);
 plot(t,gyro(3,:),'-r');
+hold on
+plot(t,angle_rate(3,:),'b.');
 legend('偏航角速率 ');
 xlabel('Time (s)');
 ylabel('roll (deg)');
