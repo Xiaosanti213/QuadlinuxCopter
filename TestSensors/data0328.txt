@@ -1,0 +1,146 @@
+
+******2018/3/28 20:42:38******
+MS5611 I2C等待超时！error_code =1
+Checking nrf... 1
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+nrf 等待超时！errorCode =0
+R--ail: 1008   
+L--ele: 989   
+R--thr: 999   
+L--rud: 1009   
+MPU6050 Accel ( g  ): -0.00   0.01   1.00   
+MPU6050 Gyro  (dps ): -0.63   -1.33    -0.07      
+Euler   Angle (deg ): 0.53         -0.03      0.00         
+Angle   Rate  (dps ): -0.63         -1.33      -0.07         
+Refer  Signal (----): 0.32    0.44    0.36      999.00
+Output Signal (----): -146               53               8               999                    
+1st : 1002   
+2nd : 997   
+3rd : 994   
+4th : 1001   
+R--ail: 1010   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): -0.01   0.01   1.00   
+MPU6050 Gyro  (dps ): -0.94   -0.72    0.42      
+Euler   Angle (deg ): 0.72         -0.22      0.00         
+Angle   Rate  (dps ): -0.94         -0.72      0.42         
+Refer  Signal (----): 0.40    0.44    0.36      1001.00
+Output Signal (----): -206               120               -1               1001                    
+1st : 1007   
+2nd : 999   
+3rd : 994   
+4th : 1002   
+R--ail: 1010   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): -0.00   0.01   1.00   
+MPU6050 Gyro  (dps ): -0.51   -3.22    -0.26      
+Euler   Angle (deg ): 0.73         -0.09      0.00         
+Angle   Rate  (dps ): -0.51         -3.22      -0.26         
+Refer  Signal (----): 0.40    0.44    0.36      1001.00
+Output Signal (----): -229               155               12               1001                    
+1st : 1008   
+2nd : 999   
+3rd : 993   
+4th : 1002   
+R--ail: 1008   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.01   0.02   1.00   
+MPU6050 Gyro  (dps ): -1.85   -1.03    -0.20      
+Euler   Angle (deg ): 0.78         0.35      0.00         
+Angle   Rate  (dps ): -1.85         -1.03      -0.20         
+Refer  Signal (----): 0.32    0.44    0.36      1001.00
+Output Signal (----): -236               -8               11               1001                    
+1st : 1005   
+2nd : 996   
+3rd : 996   
+4th : 1006   
+R--ail: 1008   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.01   0.02   1.00   
+MPU6050 Gyro  (dps ): -0.81   -1.70    0.23      
+Euler   Angle (deg ): 0.94         0.69      0.00         
+Angle   Rate  (dps ): -0.81         -1.70      0.23         
+Refer  Signal (----): 0.32    0.44    0.36      1001.00
+Output Signal (----): -327               -101               2               1001                    
+1st : 1005   
+2nd : 992   
+3rd : 996   
+4th : 1009   
+R--ail: 1008   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.02   0.02   1.00   
+MPU6050 Gyro  (dps ): -1.36   -0.72    -0.50      
+Euler   Angle (deg ): 1.06         0.90      0.00         
+Angle   Rate  (dps ): -1.36         -0.72      -0.50         
+Refer  Signal (----): 0.32    0.44    0.36      1001.00
+Output Signal (----): -378               -199               17               1001                    
+1st : 1004   
+2nd : 989   
+3rd : 997   
+4th : 1012   
+R--ail: 1008   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.03   0.03   1.00   
+MPU6050 Gyro  (dps ): 1.50   5.87    0.42      
+Euler   Angle (deg ): 1.76         1.45      0.00         
+Angle   Rate  (dps ): 1.50         5.87      0.42         
+Refer  Signal (----): 0.32    0.44    0.36      1001.00
+Output Signal (----): -693               -528               -1               1001                    
+1st : 1004   
+2nd : 976   
+3rd : 997   
+4th : 1025   
+R--ail: 1010   
+L--ele: 989   
+R--thr: 1003   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.03   0.03   1.00   
+MPU6050 Gyro  (dps ): -1.79   -0.54    0.23      
+Euler   Angle (deg ): 1.48         1.57      0.00         
+Angle   Rate  (dps ): -1.79         -0.54      0.23         
+Refer  Signal (----): 0.40    0.44    0.36      1003.00
+Output Signal (----): -592               -479               2               1003                    
+1st : 1005   
+2nd : 981   
+3rd : 1000   
+4th : 1024   
+R--ail: 1010   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1009   
+MPU6050 Accel ( g  ): 0.04   -0.01   1.00   
+MPU6050 Gyro  (dps ): -11.86   -6.09    -0.74      
+Euler   Angle (deg ): -1.07         2.55      0.00         
+Angle   Rate  (dps ): -11.86         -6.09      -0.74         
+Refer  Signal (----): 0.40    0.44    0.36      1001.00
+Output Signal (----): 391               -729               22               1001                    
+1st : 978   
+2nd : 994   
+3rd : 1022   
+4th : 1008   
+R--ail: 1008   
+L--ele: 989   
+R--thr: 1001   
+L--rud: 1007   
+Debug-usart1 is working

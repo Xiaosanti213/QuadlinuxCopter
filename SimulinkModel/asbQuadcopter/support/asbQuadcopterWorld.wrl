@@ -1,0 +1,54 @@
+#VRML V2.0 utf8
+
+DEF Trajectory Transform {
+  children Inline {
+    url "asbQuadcopterTrajectory.wrl" 
+  }
+}
+DEF AHMap Transform {
+  translation 50.67 -0.1 62.48
+  rotation 0 1 0 -1.57
+  children Group {
+    children Inline {
+      url "asbQuadcopterAHBase.wrl" 
+    }
+  }
+}
+DEF QuadBody Transform {
+  translation 57 0.001765 95
+  scaleOrientation 0 1 0 0
+  scale 4 4 4
+  children [
+    DEF Airframe Transform {
+      scaleOrientation 1 0 0 0
+      rotation 0 1 0 0
+      children Inline {
+        url "asbQuadcopterBody.wrl" 
+      }
+    }
+    DEF Blade1 Transform {
+      translation 0.0425 0.015 -0.0425
+      children Inline {
+        url "asbQuadcopterBladeCW.wrl" 
+      }
+    }
+    DEF Blade3 Transform {
+      translation -0.0425 0.015 0.0425
+      children Inline {
+        url "asbQuadcopterBladeCW.wrl" 
+      }
+    }
+    DEF Blade2 Transform {
+      translation -0.0425 0.015 -0.0425
+      children Inline {
+        url "asbQuadcopterBladeCCW.wrl" 
+      }
+    }
+    DEF Blade4 Transform {
+      translation 0.0425 0.015 0.0425
+      children Inline {
+        url "asbQuadcopterBladeCCW.wrl" 
+      }
+    }
+  ]
+}
