@@ -6,7 +6,6 @@
 %
 % http://www.petercorke.com
 
-% Copyright 2013-2017 The MathWorks, Inc.
 
 % 6DOF
 Vehicle.SixDOF.initGreenwich = 0;

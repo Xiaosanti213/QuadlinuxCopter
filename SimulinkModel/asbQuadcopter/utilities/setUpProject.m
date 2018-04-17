@@ -1,12 +1,10 @@
 function setUpProject()
-%setUpProject  Configure the environment for this project
-%
+%   setUpProject  Configure the environment for this project 
+%   配置工程环境
 %   Set up the environment for the current project. This function is set to
 %   Run at Startup.
 
-%   Copyright 2013-2015 The MathWorks, Inc.
-
-% Use Simulink Project API to get the current project:
+% Use Simulink Project API to get the current project: 获取当前工程目录
 p = slproject.getCurrentProject;
 
 projectRoot = p.RootFolder;

@@ -1,8 +1,7 @@
 function asbBusDefinitionStates() 
 % ASBBUSDEFINITIONSTATES initializes a set of bus objects in the MATLAB base workspace 
-% Copyright 2013 The MathWorks, Inc.
 
-% Bus object: States 
+%% Bus object: States 
 clear elems;
 elems(1) = Simulink.BusElement;
 elems(1).Name = 'V_body';

@@ -1,12 +1,12 @@
 %% Sensors Library Block Variables
 
 % This file is derived from the work by Fabian Riether.
-% Copyright 2013-2017 The MathWorks, Inc.
+
 
 % Load data calibration
 load('sensorCalibration.mat');
 
-%Bias (some assumed, simulated default)
+%Bias (some assumed, simulated default) 通过校准过程获取
 Sensors.IMUAccelGain = [+1.00596 +1.00383 +0.99454];
 Sensors.IMUGyroGain = [0.99861 1.00644 0.99997];
 

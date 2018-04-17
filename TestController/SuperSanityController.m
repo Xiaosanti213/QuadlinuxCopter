@@ -36,7 +36,7 @@ p_o = double(roots(coe(end:-1:1)));
 
 
 %% 连续系统时域
-time_finish = 2;                                                  %仿真时间1.5s
+time_finish = 2;                                                    %仿真时间1.5s
 T = 0.02;                                                           %仿真步长20ms
 Reference_o = ones(1,time_finish/T);                                %阶跃参考信号
 t = 0:T:time_finish-T;

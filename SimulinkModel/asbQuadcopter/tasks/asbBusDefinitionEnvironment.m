@@ -1,8 +1,8 @@
 function asbBusDefinitionEnvironment() 
 % ASBBUSDEFINITIONENVIRONMENT initializes a set of bus objects in the MATLAB base workspace 
-% Copyright 2013 The MathWorks, Inc.
+% 初始化一套总线到工作空间当中
 
-% Bus object: AtmosphereBus 
+%% Bus object: AtmosphereBus 
 clear elems;
 elems(1) = Simulink.BusElement;
 elems(1).Name = 'air_temp';
@@ -64,7 +64,7 @@ AtmosphereBus.Alignment = -1;
 AtmosphereBus.Elements = elems;
 assignin('base','AtmosphereBus', AtmosphereBus)
 
-% Bus object: Environment 
+%% Bus object: Environment 
 clear elems;
 elems(1) = Simulink.BusElement;
 elems(1).Name = 'Gravity_ned';
